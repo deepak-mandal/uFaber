@@ -1,0 +1,92 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-Aug-2021, 3:44:54 pm
+    Author     : dkmii
+*/
+
+body{
+/*padding: 50px;
+margin: 50px;
+background: linear-gradient(to right, #FFF5EE, #FFF5EE);*/
+}
+.panelColor{
+    background: linear-gradient(to right, #FFF5EE, #FFF5EE);
+}
+#innerStyle{
+    
+    
+    border-radius: 15px;
+    
+}
+
+#imageStyle{
+    height:100px;
+    weight: 100px;
+    padding:20px 20px 20px 20px;
+    
+}
+
+.starStudent{
+    /*padding:10px 10px 10px 10px;*/
+    color: #fff;
+    background-color: blue;
+    border-radius: 5px;
+}
+#starStudentImage{
+    float:left;
+    height:100px;
+    weight: 100px;
+    padding:20px 20px 20px 20px;
+}
+.myButton{
+    color:#fff;
+    background: linear-gradient(to right, #0000FF, #8A2BE2);
+    padding:10px;
+    border-radius: 5px;
+   text-decoration:none;
+    
+}
+
+newFeature h6{
+    text-align: right;
+}
+newFeature h3{
+    text-align: right;
+}
+
+
+#lastRight{
+    border-style:solid;
+    padding:10px;
+    border-radius: 5px;
+   text-decoration:none;
+   float:left;
+    
+}
+#lastLeft{
+    border-style:solid;
+    padding:10px;
+    border-radius: 5px;
+   text-decoration:none;
+    float: right;
+}
+.RightButton{
+    color:#fff;
+    background: red;
+    padding:10px;
+    border-radius: 5px;
+   text-decoration:none;
+   float:left;
+}
+.LeftButton{
+    color:#fff;
+    background-color:orange;
+    padding:10px;
+    border-radius: 5px;
+   text-decoration:none;
+   float: right;
+}
