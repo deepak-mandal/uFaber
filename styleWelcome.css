@@ -90,3 +90,6 @@ newFeature h3{
    text-decoration:none;
    float: right;
 }
+#outerPadding{
+    padding:0px 5px 0px 5px;
+}
